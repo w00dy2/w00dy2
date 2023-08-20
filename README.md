@@ -38,5 +38,9 @@
   <br>
 </div>
 <div>
-  ![w00dy2's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00dy2&show_icons=true&theme=transparent)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![w00dy2's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00dy2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/w00dy2/github-readme-stats)
+</div>
 </div>
