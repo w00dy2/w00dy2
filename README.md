@@ -38,5 +38,5 @@
   <br>
 </div>
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w00dy2&langs_count=8)(https://github.com/w00dy2/github-readme-stats)
+  ![w00dy2's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00dy2&show_icons=true&theme=transparent)
 </div>
