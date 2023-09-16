@@ -51,6 +51,19 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![w00dy2's GitHub stats](https://github-readme-stats.vercel.app/api?username=w00dy2&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/w00dy2/github-readme-stats)
+  
+[![w00dy2's github stats](https://github-readme-stats.vercel.app/api?username=w00dy2&count_private=true&custom_title=w00dy2's%20github&bg_color=45,53a0ec,c0c0c0&title_color=ffffff&text_color=ffffff)](https://github.com/w00dy2/github-readme-stats)
+
+
+- - -
+
+<div align="left" style="text-align:center">
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pshyeok2&color=dark)](https://velog.io/@pshyeok2)
+  
+</div>
+
+
+
 </div>
 </div>
